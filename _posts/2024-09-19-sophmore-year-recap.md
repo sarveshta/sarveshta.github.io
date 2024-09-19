@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Sophmore Year Recap"
+title: "Sophomore Year Recap"
 date: 2024-09-19 10:41:00 -0700
 description: "Sarvesh highlights his academic achievements during the 2023-2024 academic year."
 categories: [University]
 tags: [Recap, Experience]
 image:
   path: "https://lh3.googleusercontent.com/pw/AP1GczOmcmtHwF4CacHU5VE0_i3QmgXpt0KePq7cJ1mGszWU2OnXGNXqoAJlxlDr42HZ3Oai_Xf7YnBtgBeLS4bD2T_OM83H5CgJKwtFHd9ZU8JBdP1nuA=w1920-h1080"
-  alt: Guest Lecture on "Preparing for Sophmore Year and Beyond"
+  alt: Guest Lecture on "Preparing for Sophomore Year and Beyond"
 ---
 
 As my sophomore year summer comes to a close, I'd like to take a moment to reflect on and share some key experiences that made this year special and contributed to my professional development.
@@ -23,8 +23,8 @@ Looking back at this year, I've learned the importance of seizing every opportun
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/69uosU73qVYtGNPz5"
-  data-title="19-09-24-Sophmore Year Recap"
-  data-description="8 new items · Album by Sarvesh Thiruppathi Ahila"
+  data-title="Sophomore Year Recap"
+  data-description="9 new items · Album by Sarvesh Thiruppathi Ahila"
   data-delay="3">
   <object data="https://lh3.googleusercontent.com/pw/AP1GczMb4roxbWyLy16dsQaTu538X3lrIVdj4NuJnI-oK8k-yU65xoZQ0aBerCn5XyJahE8k6nILfDp2UQjmRmMN_r9KDhN_AZGEbVWQ4YpJKMIKMYJ1fA=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczOmcmtHwF4CacHU5VE0_i3QmgXpt0KePq7cJ1mGszWU2OnXGNXqoAJlxlDr42HZ3Oai_Xf7YnBtgBeLS4bD2T_OM83H5CgJKwtFHd9ZU8JBdP1nuA=w1920-h1080"></object>
@@ -34,4 +34,5 @@ Looking back at this year, I've learned the importance of seizing every opportun
   <object data="https://lh3.googleusercontent.com/pw/AP1GczOJQb0bE8IhiP90LKD-yi4BQLz1RsUtA2UZ4HWluYKr2_t15Hrr9waA5ORMLr63acXhfpXz35pwML-UWgs0R09O4C_afbu7gSDdj8qZE8hukM41Kw=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczOEG05fSamPyquMzlZ5AsyQoNM4hpDO7xUbjtkhUN8VtWMzatvC4ZAFBwqz5jSiP4cMRgOl8bUi6jdzsdvWRFgbQAZnpaGuwBoCZGBJ_uUg3UiguQ=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczMmT9bPoHGz2yFtwhjPJ2ZvNk_eA0LcYSyIHWlppIlXaTgX7fzw_X0XiXvgJEQnlnU43dKK6dEi0Gl8wYWU7bPd8JgJskSSozJS5ybXbr7bZb1Wpg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMLBnH3_MbV8-6znaUF2zTAqWZfGCy-VV7xwCeLdyZo-G_jv4EZ0CJGCJzPA4_mnYptAQzX_zQFAR1_RZBYmpGRZPlk8GLADfSHWQ4A9_iMXWfVIQ=w1920-h1080"></object>
 </div>
