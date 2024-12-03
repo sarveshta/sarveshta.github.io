@@ -22,6 +22,11 @@
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/sarveshth/'                  # Fill with your Linkedin homepage
+
+- type: devpost
+  icon: 'fab fa-dev'   # icons powered by <https://fontawesome.com/>
+  url:  'https://devpost.com/Sarvesh-Thiruppathi'  # Fill with your Devpost homepage
+
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
