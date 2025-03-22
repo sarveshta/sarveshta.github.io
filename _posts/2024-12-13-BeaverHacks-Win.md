@@ -4,7 +4,7 @@ title: "GetTheDamClass - BeaverHacks Winner!"
 date: 2024-12-03 21:13:00 -0700
 description: "🏆 1st Place in Hackathon: Building Tools to Simplify Class Registration!"
 categories: [University]
-tags: [Recap, Experience]
+tags: [Recap, Experience, Project]
 image:
   path: "https://lh3.googleusercontent.com/6eP6otNb-Aca3vEaMLoruCxfRBbDfCu7fHDGnz0NjuYY0A9Ed5xGskjH-pluFgDViQ_Qt10w94dIQxogmpxAGEGaew=s1280-w1280-h800"
   alt: Screenshot of GetTheDamClass extension in action!"
