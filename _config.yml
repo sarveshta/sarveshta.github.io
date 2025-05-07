@@ -16,7 +16,7 @@ timezone: "PST"
 
 title: "Sarvesh" # the main title
 
-tagline: "Incoming SWE Intern @ Collins Aerospace | ECE Student @ Oregon State" # it will display as the subtitle
+tagline: "SWE Intern @ Collins Aerospace | ECE Student @ Oregon State" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Electrical, Computer, Engineering, Aviation, Computer Science, Student, Research
